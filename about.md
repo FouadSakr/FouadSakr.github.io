@@ -16,11 +16,12 @@ I have published several papers on my research, and you can find details of my p
 
 ### Software
 As an advocate of open-source development, I have released several frameworks that are aimed at making embedded machine learning more accessible. These include:
-[ELM](https://github.com/Edge-Learning-Machine) (Edge Learning Machine) is an environment for embedded machine and deep learning:
-- [Desk-LM](https://github.com/Edge-Learning-Machine/Desk-LM) is a python module for training machine learning models,
-- [Micro-LM](https://github.com/Edge-Learning-Machine/Micro-LM) is a plain C inference library for machine learning on edge devices,
-- [Autonomous-Edge-Pipeline](https://github.com/Edge-Learning-Machine/Autonomous-Edge-Pipeline) is a self-learning autonomous edge learning and inferencing pipeline for resource-constrained embedded system,
-- [CBin-NN](https://edge-learning-machine.github.io/CBin-NN/) is an inference engine for Binarized Neural Networks on resource-constrained devices.
+
+* [ELM](https://github.com/Edge-Learning-Machine) (Edge Learning Machine) is an environment for embedded machine and deep learning:
+  - [Desk-LM](https://github.com/Edge-Learning-Machine/Desk-LM) is a python module for training machine learning models,
+  - [Micro-LM](https://github.com/Edge-Learning-Machine/Micro-LM) is a plain C inference library for machine learning on edge devices,
+* [Autonomous-Edge-Pipeline](https://github.com/Edge-Learning-Machine/Autonomous-Edge-Pipeline) is a self-learning autonomous edge learning and inferencing pipeline for resource-constrained embedded system,
+* [CBin-NN](https://edge-learning-machine.github.io/CBin-NN/) is an inference engine for Binarized Neural Networks on resource-constrained devices.
 
 ### Teaching
 I am also passionate about teaching and enjoy sharing my knowledge with others. I have been a teaching assistant at Queen Mary University of London for:
