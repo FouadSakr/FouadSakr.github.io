@@ -29,4 +29,4 @@ I am also passionate about teaching and enjoy sharing my knowledge with others. 
 - Machine Learning (ECS708P) - Fall'21
 
 ### Current Position
-Embedded Machine Learning Engineer at Aptiv in the interior sensing team.
+Embedded Machine Learning Engineer at [APTIV](https://www.aptiv.com/) in the interior sensing team.
