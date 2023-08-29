@@ -30,3 +30,4 @@ I am also passionate about teaching and enjoy sharing my knowledge with others. 
 
 ### Current Position
 Embedded Machine Learning Engineer at [APTIV](https://www.aptiv.com/) in the interior sensing team.
+
