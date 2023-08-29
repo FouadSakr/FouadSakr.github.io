@@ -12,10 +12,10 @@ My research interests revolve around TinyML, Edge Intelligence, Embedded Compute
 During my Ph.D., I had the opportunity to work with top-notch researchers and professors, including [Francesco Bellotti](http://phd-jdice.diten.unige.it/index.php/team/board-members/item/19-francesco-bellotti), [Riccardo Berta](https://about.me/riccardo.berta), and [Joseph Doyle](http://eecs.qmul.ac.uk/profiles/doylejoseph.html).
 
 ### Publications
-I have published several papers on my research, and you can find details of my publications on my <a href="https://scholar.google.com/citations?user=x3TEgPQAAAAJ&hl=en">Google Scholar profile</a>
+We've authored numerous papers on TinyML. For more details, check out my <a href="https://scholar.google.com/citations?user=x3TEgPQAAAAJ&hl=en">Google Scholar profile</a>
 
 ### Software
-As an advocate of open-source development, I have released several frameworks that are aimed at making embedded machine learning more accessible. These include:
+As advocates of open-source development, we have released several frameworks that are aimed at making embedded machine learning more accessible. These include:
 
 * [ELM](https://github.com/Edge-Learning-Machine) (Edge Learning Machine) is an environment for embedded machine and deep learning:
   - [Desk-LM](https://github.com/Edge-Learning-Machine/Desk-LM) is a python module for training machine learning models,
@@ -24,7 +24,7 @@ As an advocate of open-source development, I have released several frameworks th
 * [CBin-NN](https://edge-learning-machine.github.io/CBin-NN/) is an inference engine for Binarized Neural Networks on resource-constrained devices.
 
 ### Teaching
-I am also passionate about teaching and enjoy sharing my knowledge with others. I have been a teaching assistant at Queen Mary University of London for:
+I am also passionate about teaching and enjoy sharing my knowledge with others. I have been a teaching assistant at [Queen Mary University of London](https://www.qmul.ac.uk/) for:
 - Big Data Processing (ECS640U) - Fall'21
 - Machine Learning (ECS708P) - Fall'21
 
